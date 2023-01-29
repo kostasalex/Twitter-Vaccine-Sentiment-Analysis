@@ -2,6 +2,8 @@
 A study of public sentiment towards vaccines through analysis of Twitter data,covering the dates of 12/2020 to 11/2021. Utilizing NLP techniques to understand and categorize opinions.
 
 ## Techniques Used
+* Programming Language: Python
+* 
 * Data Preprocessing: The raw data was cleaned and transformed to remove inconsistencies, missing values, and irrelevant information.
 
 * Data Visualization: Graphs and charts were used to understand the distribution and relationships between different variables in the dataset.
